@@ -210,4 +210,4 @@ VSO Image Resizer is available as a complete free version, with all features and
 Start optimizing your images today with VSO Image Resizer! Download now and enjoy the benefits of effortless image resizing.
 
 ---
-**Last updated:** 2026-10-18 22:49:25 UTC
+**Last updated:** 2026-10-19 00:52:48 UTC
